@@ -1,0 +1,2 @@
+#entries in the form of discordId,lolEUWSummonerName,AccountId
+#<@000000000000000000>,testaccount,00000000
